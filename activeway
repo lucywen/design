@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lucy Wen Design.</title>
+		<link a href="style.css" type="text/css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+			<style>
+				p.large {
+					line-height: 2.5;
+					color: rgba(0, 0, 0, 0.3);
+					padding: 0px 120px 120px 120px;
+					text-transform: uppercase;
+			}
+		
+				p.small {
+					line-height: 2.5;
+					color: rgba(0, 0, 0, 0.3);
+					padding: 120px;
+					text-transform: uppercase;
+			}
+		
+			p.italic {
+				text-transform: uppercase;
+				font-style: italic;
+				padding: 120px 120px 0px 120px;
+			}
+			</style>
+		</head>
+
+<body>
+	<div>
+		<ul>
+			<li id="special"><a href="MainHome.html">LUCY WEN DESIGN.</a></li>
+			<li id="UIUX"><a href="UIUX.html">UI/UX</a></li>
+			<li class="active"><a href="ID.html">ID</a></li>
+			<li class="active"><a href="GD.html" style="color:#000">GD</a></li>
+			<li id="about" style="float:right"><a href="About.html">ABOUT</a></li>
+			<li id="contact" style="float:right"><a href="Contact.html">CONTACT</a></li>
+		</ul>
+	</div>
+	
+<center><div style="margin:100px">
+<p class="italic">active way healthcare llc. information brochure</p><p class="large">a classmate from my early days reached out and asked for a helping hand on the new look and feel of Active way healthcare's brochure.</p><br>
+<p class="large">often times medical brochures have a sterile, cold, and uninviting feel. to combat those imagery, the new design aims to bring a connected, and welcoming feel for customers who are looking for transitional living assistance. </p><br>
+<p class="large">bright colors and graphical icons of people and services give viewers a glimpse into what kinds of support and values Active Way Healthcare provides.</p><br>
+<img src="Images\AW-1.jpg" width="1000px" height="auto"><br>
+<img src="Images\AW-2.jpg" width="1000px" height="auto"><br>
+<img src="Images\AW-3.jpg" width="1000px" height="auto"><br>
+<img src="Images\AW-4.jpg" width="1000px" height="auto"><br>
+<p class="small">thank you for viewing.</p><br>
+</div></center>
+
+<div>
+<a href="GD.html"><p class="heading">BACK TO GRAPHIC DESIGN</p></a>
+<div>
+
+</body>
+</html>
+
+
