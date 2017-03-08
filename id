@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lucy Wen Design.</title>
+		<link a href="style.css" type="text/css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+			<style>
+			</style>
+		</head>
+
+<body>
+	<div>
+		<ul>
+			<li id="special"><a href="MainHome.html">LUCY WEN DESIGN.</a></li>
+			<li><a href="UIUX.html">UI/UX</a></li>
+			<li class="active"><a href="ID.html" style="color:#000">ID</a></li>
+			<li><a href="GD.html">GD</a></li>
+			<li id="about" style="float:right"><a href="About.html">ABOUT</a></li>
+			<li id="contact" style="float:right"><a href="Contact.html">CONTACT</a></li>
+		</ul>
+
+	</div>
+<p class="heading">INDUSTRIAL DESIGN</p>
+
+<center><div class="container">
+	<a href="ID_Mini.html">
+  		<img src="Images/Mini_extra1.jpg" alt="VISUAL BRANDING LANGUAGE" class="image">
+  <div class="middle">
+    <div class="text">VISUAL BRANDING LANGUAGE: MINI COOPER</div>
+    </a>
+  </div>
+</div>
+
+<div class="container">
+	<a href="ID_Pebble.html">
+  		<img src="Images/Pebble-01.jpg" alt="Pebble" class="image">
+  <div class="middle">
+    <div class="text">RED DOT DESIGN AWARD: PEBBLE</div>
+    </a>
+  </div>
+</div></center>
+
+</body>
+</html>
