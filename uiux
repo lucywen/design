@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lucy Wen Design.- User Interface/User Experience</title>
+		<link a href="style.css" type="text/css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+			<style>
+			</style>
+		</head>
+
+<body>
+	<div>
+		<ul>
+			<li id="special"><a href="MainHome.html">LUCY WEN DESIGN.</a></li>
+			<li class="active">UI/UX</li>
+			<li><a href="ID.html">ID</a></li>
+			<li id="gd"><a href="GD.html">GD</a></li>
+			<li id="about" style="float:right"><a href="About.html">ABOUT</a></li>
+			<li id="contact" style="float:right"><a href="Contact.html">CONTACT</a></li>
+		</ul>
+	</div>
+	<p class="heading">USER INTERFACE/USER EXPERIENCE</p>
+
+<center><div class="container">
+	<a href="UIUX_DigTec.html">
+  		<img src="LWD-03.jpg" alt="DIGTEC MOBILE APP" class="image">
+  <div class="middle">
+    <div class="text">DIGTEC CONCEPT MOBILE APP</div>
+    </a>
+  </div>
+</div>
+
+<div class="container">
+	<a href="PlaceOfMine.html">
+  		<img src="PoM-04.jpg" alt="PLACE OF MINE" class="image">
+  <div class="middle">
+    <div class="text">PLACE OF MINE CONCEPT MOBILE APP</div>
+    </a>
+  </div>
+</div></center>
+
+</body>
+</html>
