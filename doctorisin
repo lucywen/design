@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lucy Wen Design.</title>
+		<link a href="style.css" type="text/css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+			<style>
+				p.large {
+					line-height: 2.5;
+					color: rgba(0, 0, 0, 0.3);
+					padding: 0px 120px 120px 120px;
+					text-transform: uppercase;
+		}
+			p.italic {
+				text-transform: uppercase;
+				font-style: italic;
+				padding: 120px 120px 0px 120px;
+		}	
+		
+			p.small {
+					line-height: 2.5;
+					color: rgba(0, 0, 0, 0.3);
+					padding: 120px;
+					text-transform: uppercase;
+			}
+			</style>
+		</head>
+
+<body>
+	<div>
+		<ul>
+			<li id="special"><a href="MainHome.html">LUCY WEN DESIGN.</a></li>
+			<li id="UIUX"><a href="UIUX.html">UI/UX</a></li>
+			<li class="active"><a href="ID.html">ID</a></li>
+			<li class="active"><a href="GD.html" style="color:#000">GD</a></li>
+			<li id="about" style="float:right"><a href="About.html">ABOUT</a></li>
+			<li id="contact" style="float:right"><a href="Contact.html">CONTACT</a></li>
+		</ul>
+	</div>
+	
+<center><div style="margin:100px">	
+	<p class="italic">doctor is in</p><p class="large">is a time where people from the data visualization community at caterpillar take an hour every other week to discuss data visualization trends, layouts, and design principles on current and past projects.</p><br><br>
+	<img src="Images/DISI1.jpg" alt="DigTec" width="1000px"><br><br><br><br><br>
+	<p class="large">the image above is the opening slide used to introduce and advertise the biweekly event. it aims to give the audience a glimpse of what to expect: computer to signify digital works, color swatches to signify design and color discussions, and coffee to signify mornings.</p>
+	<p class="large">the image below is a spread of all the graphical elements used in the slide</p>
+<img src="Images/DISI2.jpg" alt="DigTec" width="1000px"><br><br>
+	<p class="small">thank you for viewing</p><br>
+</div></center>
+
+<div>
+<a href="GD.html"><p class="heading">BACK TO GRAPHIC DESIGN</p></a>
+<div>
+
+</body>
+</html>
