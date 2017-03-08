@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lucy Wen Design.</title>
+		<link a href="style.css" type="text/css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+			<style>
+			</style>
+		</head>
+
+<body>
+	<div>
+		<ul>
+			<li id="special"><a href="MainHome.html">LUCY WEN DESIGN.</a></li>
+			<li class="active"><a href="UIUX.html" style="color:#000">UI/UX</a></li>
+			<li><a href="ID.html">ID</a></li>
+			<li><a href="GD.html">GD</a></li>
+			<li id="about" style="float:right"><a href="About.html">ABOUT</a></li>
+			<li id="contact" style="float:right"><a href="Contact.html">CONTACT</a></li>
+		</ul>
+	</div>
+
+<div style="margin:100px">
+<center><img src="Images\PoM1.jpg" width="800px" height="auto"><br>
+<img src="Images\PoM2.jpg" width="1000px" height="auto"><br>
+<img src="Images\PoM10.jpg" width="1000px" height="auto"><br>
+<img src="Images\PoM11.jpg" width="1000px" height="auto"><br>
+<img src="Images\PoM8.jpg" width="1000px" height="auto"><br>
+<img src="Images\PoM9.jpg" width="1000px" height="auto"><br>
+<img src="Images\PoM3.jpg" width="1000px" height="auto"><br>
+<img src="Images\PoM4.jpg" width="1000px" height="auto"><br>
+<img src="Images\PoM5.jpg" width="1000px" height="auto"><br>
+<img src="Images\PoM6.jpg" width="1000px" height="auto"><br>
+<img src="Images\PoM7.jpg" width="1000px" height="auto"><br>
+<img src="Images\PoM12.jpg" width="1000px" height="auto"><br>
+<img src="Images\PoM13.jpg" width="1000px" height="auto"><br>
+<img src="Images\PoM14.jpg" width="1000px" height="auto"><br>
+<img src="Images\PoM15.jpg" width="1000px" height="auto"><br>
+</center></div>
+
+<div>
+<a href="UIUX.html"><p class="heading">BACK TO USER INTERFACE/USER EXPERIENCE</p></a>
+<div>
+
+</body>
+</html>
