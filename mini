@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lucy Wen Design.</title>
+		<link a href="style.css" type="text/css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+			<style>
+				br {
+					display: block;
+					margin: 0px;
+					}
+					
+			p.large {
+				text-transform: uppercase;
+				color: rgba(0, 0, 0, 0.3);
+				line-height: 3;
+				padding: 120px;
+			}
+			</style>
+		</head>
+
+<body>
+	<div>
+		<ul>
+			<li id="special"><a href="MainHome.html">LUCY WEN DESIGN.</a></li>
+			<li><a href="UIUX.html">UI/UX</a></li>
+			<li class="active"><a href="ID.html" style="color:#000">ID</a></li>
+			<li><a href="GD.html">GD</a></li>
+			<li id="about" style="float:right"><a href="About.html">ABOUT</a></li>
+			<li id="contact" style="float:right"><a href="Contact.html">CONTACT</a></li>
+		</ul>
+	</div>
+	
+<center><div style="margin:150px">
+<img src="Images\Mini2.jpg" width="800px" height="auto">
+<img src="Images\Mini3.jpg" width="800px" height="auto">
+<img src="Images\Mini4.jpg" width="800px" height="auto">
+<img src="Images\Mini5.jpg" width="800px" height="auto">
+<img src="Images\Mini6.jpg" width="800px" height="auto">
+<img src="Images\Mini7.jpg" width="800px" height="auto">
+<img src="Images\Mini8.jpg" width="800px" height="auto">
+<img src="Images\Mini9.jpg" width="800px" height="auto">
+<img src="Images\Mini10.jpg" width="800px" height="auto">
+<img src="Images\Mini11.jpg" width="800px" height="auto">
+<img src="Images\Mini12.jpg" width="800px" height="auto">
+<img src="Images\Mini13.jpg" width="800px" height="auto">
+<img src="Images\Mini14.jpg" width="800px" height="auto">
+<img src="Images\Mini15.jpg" width="800px" height="auto">
+<img src="Images\Mini16.jpg" width="800px" height="auto">
+<img src="Images\Mini17.jpg" width="800px" height="auto">
+<img src="Images\Mini18.jpg" width="800px" height="auto">
+<img src="Images\Mini19.jpg" width="800px" height="auto">
+<img src="Images\Mini_Extra1.jpg" width="800px" height="auto">
+<img src="Images\Mini_Extra2.jpg" width="800px" height="auto">
+<img src="Images\Mini20.jpg" width="800px" height="auto">
+<img src="Images\Mini21.jpg" width="800px" height="auto">
+<p class="large">thank you for viewing</p>
+</div></center>
+
+<div>
+<a href="ID.html"><p class="heading">BACK TO INDUSTRIAL DESIGN</p></a>
+<div>
+
+</body>
+</html>
