@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lucy Wen Design.</title>
+		<link a href="style.css" type="text/css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+			<style>
+			p.large {
+				text-transform: uppercase;
+				color: rgba(0, 0, 0, 0.3);
+				line-height: 3;
+				padding: 120px;
+			}
+			</style>
+		</head>
+
+<body>
+	<div>
+		<ul>
+			<li id="special"><a href="MainHome.html">LUCY WEN DESIGN.</a></li>
+			<li><a href="UIUX.html">UI/UX</a></li>
+			<li class="active"><a href="ID.html" style="color:#000">ID</a></li>
+			<li><a href="GD.html">GD</a></li>
+			<li id="about" style="float:right"><a href="About.html">ABOUT</a></li>
+			<li id="contact" style="float:right"><a href="Contact.html">CONTACT</a></li>
+		</ul>
+	</div>
+	
+<center><div style="margin:100px">
+<img src="Images\Pebble-01.jpg" width="800px" height="auto"><br>
+<img src="Images\Pebble-02.jpg" width="800px" height="auto"><br>
+<img src="Images\Pebble-03.jpg" width="800px" height="auto"><br>
+<img src="Images\Pebble-04.jpg" width="800px" height="auto"><br>
+<img src="Images\Pebble-05.jpg" width="800px" height="auto"><br>
+<img src="Images\Pebble-06.jpg" width="800px" height="auto"><br>
+<img src="Images\Pebble-07.jpg" width="800px" height="auto"><br>
+<img src="Images\Pebble-08.jpg" width="800px" height="auto"><br>
+<img src="Images\Pebble-09.jpg" width="800px" height="auto"><br>
+<img src="Images\Pebble-10.jpg" width="800px" height="auto"><br>
+<img src="Images\Pebble-11.jpg" width="800px" height="auto"><br>
+<p class="large">thank you for viewing</p>
+</div></center>
+
+<div>
+<a href="ID.html"><p class="heading">BACK TO INDUSTRIAL DESIGN</p></a>
+<div>
+
+</body>
+</html>
