@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lucy Wen Design.</title>
+		<link a href="style.css" type="text/css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+			<style>
+			p.large {
+				text-transform: uppercase;
+				color: rgba(0, 0, 0, 0.3);
+				line-height: 3;
+				padding: 120px;
+			}
+			
+			p.small {
+				line-height: 2.5;
+				color: rgba(0, 0, 0, 0.3);
+				padding: 120px;
+				text-transform: uppercase;
+			}
+			</style>
+		</head>
+
+<body>
+	<div>
+		<ul>
+			<li id="special"><a href="MainHome.html">LUCY WEN DESIGN.</a></li>
+			<li id="UIUX"><a href="UIUX.html">UI/UX</a></li>
+			<li class="active"><a href="ID.html">ID</a></li>
+			<li class="active"><a href="GD.html" style="color:#000">GD</a></li>
+			<li id="about" style="float:right"><a href="About.html">ABOUT</a></li>
+			<li id="contact" style="float:right"><a href="Contact.html">CONTACT</a></li>
+		</ul>
+	</div>
+	
+<center><div style="margin:100px">
+<img src="Images\DVD0.jpg" width="800px" height="auto"><br>
+<img src="Images\DVD10.jpg" width="800px" height="auto"><br>
+<img src="Images\DVD1.jpg" width="800px" height="auto"><br>
+<img src="Images\DVD2.png" width="800px" height="auto"><br>
+<img src="Images\DVD3.jpg" width="800px" height="auto"><br>
+<img src="Images\DVD9.png" width="800px" height="auto"><br>
+<p class="small">thank you for viewing</p>
+</div></center>
+
+<div>
+<a href="GD.html"><p class="heading">BACK TO GRAPHIC DESIGN</p></a>
+<div>
+
+</body>
+</html>	
